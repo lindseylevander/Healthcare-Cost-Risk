@@ -36,7 +36,7 @@ The dataset includes:
 
 ---
 
-## Lagnguages and Tools
+## Languages and Tools
 
 * Python
 * pandas
@@ -50,7 +50,7 @@ The dataset includes:
 
 ## Project Workflow
 
-### 1. Data Exploration & Cleaning
+### 1. Data Exploration and Cleaning
 
 * Reviewed dataset structure and data types
 * Checked for missing values and inconsistencies
