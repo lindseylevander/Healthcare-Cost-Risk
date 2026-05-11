@@ -1,5 +1,5 @@
 # Healthcare-Cost-Risk
-# Healthcare Cost & Risk Prediction Analysis
+# Healthcare Cost and Risk Prediction Analysis
 
 ## Project Overview
 
